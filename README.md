@@ -47,7 +47,7 @@ This project was developed with the following technologies:
 - run `yarn start` to start the app
 - Scan the QR code shown in your desktop using the Expo mobile app
 
-### :heavy_plus_sign: Extra TODOs
+## :heavy_plus_sign: Extra TODOs
 
 - Login validation (e-mail confirmation, reset password, etc)
 - Include a NGO profile page to display more informations about it
