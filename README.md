@@ -6,13 +6,14 @@
   <a href="#question-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#wrench-setting-up-and-running-the-app">Running the app</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#heavy_plus_sign-extra-todos">Extra TODOs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
   <a href="#memo-license">License</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Be The Hero" src=".github/screens.png" width="100%">
+  <img alt="Be The Hero on devices" src=".github/screens.png" width="100%">
 </p>
 
 ## :question: About
