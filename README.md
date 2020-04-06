@@ -46,6 +46,13 @@ This project was developed with the following technologies:
 - run `yarn start` to start the app
 - Scan the QR code shown in your desktop using the Expo mobile app
 
+### :heavy_plus_sign: Extra TODOs
+
+- Login validation (e-mail confirmation, reset password, etc)
+- Include a NGO profile page to display more informations about it
+- Store geolocalization information about the NGO
+- Allow the user to set a maximum distance on the case list page, showing cases only from NGOs located within the distance reported by the user
+
 ## :memo: License
 
 This project is under MIT license. Read [LICENSE](LICENSE.md) file for more details.
